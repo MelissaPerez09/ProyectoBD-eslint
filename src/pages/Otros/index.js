@@ -1,3 +1,3 @@
-import Otros from "./Otros"
+import Otros from "./Otros";
 
-export default Otros
+export default Otros;

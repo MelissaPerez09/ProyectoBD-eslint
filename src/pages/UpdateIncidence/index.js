@@ -1,3 +1,3 @@
-import UpdateIncidence from "./UpdateIncidence"
+import UpdateIncidence from "./UpdateIncidence";
 
-export default UpdateIncidence
+export default UpdateIncidence;

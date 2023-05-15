@@ -1,3 +1,3 @@
-import InsertIncidence from "./InsertIncidence"
+import InsertIncidence from "./InsertIncidence";
 
-export default InsertIncidence
+export default InsertIncidence;

@@ -1,3 +1,3 @@
-import InfoDoctor from "./InfoDoctor"
+import InfoDoctor from "./InfoDoctor";
 
-export default InfoDoctor
+export default InfoDoctor;
