@@ -1,3 +1,3 @@
-import Incidence from "./Incidence";
+import Incidence from "./Incidence"
 
-export default Incidence;
+export default Incidence

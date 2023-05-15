@@ -1,3 +1,3 @@
-import InfoPatient from "./InfoPatient";
+import InfoPatient from "./InfoPatient"
 
-export default InfoPatient;
+export default InfoPatient

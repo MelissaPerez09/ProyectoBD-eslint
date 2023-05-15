@@ -1,3 +1,3 @@
-import ChangeDoctorHospital from "./ChangeDoctorHospital";
+import ChangeDoctorHospital from "./ChangeDoctorHospital"
 
-export default ChangeDoctorHospital;
+export default ChangeDoctorHospital
