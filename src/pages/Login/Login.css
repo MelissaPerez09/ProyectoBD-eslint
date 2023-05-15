@@ -1,0 +1,127 @@
+.login-container-root {
+  /* justify-content: center; */
+  /* align-items: center; */
+  display: grid;
+  place-items: center;
+  height: 100vh;
+  width: 100vw;
+  /* position: relative; */
+  /* background-image: url("https://github.com/JDgomez2002/Proj2_DBI_production/blob/main/Proj2-DBI-production/src/img/background/blue-gradient-2.png?raw=true");
+  background-repeat: no-repeat;
+  background-size: cover; */
+}
+
+.login-root {
+  background-image: url("https://github.com/JDgomez2002/Proj2_DBI_production/blob/main/Proj2-DBI-production/src/img/background/blue-gradient-2.png?raw=true");
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+.login-guest-container {
+  width: 100vw;
+  height: 5px;
+  padding: 20px 0px 0px 0px;
+  display: grid;
+  justify-content: right;
+}
+
+.logo {
+  height: 100px;
+  width: 100px;
+  text-align: center;
+  padding: 10px 1px 1px 1px;
+}
+
+.login-container {
+  /* height: 175px; */
+  margin: 0px;
+  height: 300px;
+  width: 200px;
+  padding: 15px;
+  border-radius: 5px;
+  text-align: center;
+  display: table;
+  /* position: absolute; */
+  flex-direction: column;
+  background-color: white;
+}
+
+.login-labels {
+  font-size: 25px;
+  font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+  text-align: left;
+  padding: 15px 0px 0px 0px;
+}
+
+.input-login {
+  font-size: 25px;
+  font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+  width: 100%;
+  margin: 0px 0px 0px 0px;
+  padding: 0px 0px 0px 0px;
+  border-radius: 3px;
+  border: 0.5px solid black;
+  text-indent: 3px;
+}
+
+.login-button {
+  font-size: 20px;
+  position: relative;
+  display: table;
+  margin: 15px 70px 10px 70px;
+  padding: 2px 5px 2px 5px;
+  text-align: center;
+  border-radius: 5px;
+  border: 0.5px solid black;
+  cursor: pointer;
+  color: inherit;
+  text-decoration: inherit;
+  /* all: unset; */
+}
+
+.login-button-guest {
+  font-size: 12px;
+  position: relative;
+  display: table;
+  margin: 15px 30px 10px 0px;
+  padding: 2px 5px 2px 5px;
+  text-align: center;
+  border-radius: 5px;
+  border: 0.5px solid black;
+  cursor: pointer;
+  color: inherit;
+  text-decoration: inherit;
+  /* all: unset; */
+}
+
+.sign-in-button-link {
+  font-size: 20px;
+  position: relative;
+  display: table;
+  margin: 15px 0px 10px 65px;
+  padding: 2px 5px 2px 5px;
+  text-align: center;
+  border-radius: 5px;
+  border: 0.5px solid black;
+  cursor: pointer;
+  color: inherit;
+  text-decoration: inherit;
+  /* all: unset; */
+}
+
+.login-button:hover {
+  background-color: #a6c3c3c5;
+}
+
+.login-button-guest:hover {
+  background-color: #a6c3c3;
+  color: black;
+}
+
+.sign-in-button-link:hover {
+  background-color: #a6c3c3c5;
+}
+
+.div-login-message {
+  font-size: 12px;
+}
